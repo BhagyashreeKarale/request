@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "id": "1545",
+      "parent_exercise_id": null,
+      "name": "Feedback",
+      "slug": "samvaad-mentorship__feedback",
+      "sequence_num": 200,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/feedback.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1185",
+          "parent_exercise_id": "1171",
+          "name": "How to Use",
+          "slug": "samvaad-mentorship__introduction/how-to-use",
+          "sequence_num": 1001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/introduction/how-to-use.md",
+          "submission_type": null
+        },
+        {
+          "id": "1184",
+          "parent_exercise_id": "1171",
+          "name": "Student Guidelines",
+          "slug": "samvaad-mentorship__introduction/student-guideline",
+          "sequence_num": 1002,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/introduction/student-guideline.md",
+          "submission_type": null
+        }
+      ]
+    },
+    {
+      "id": "1171",
+      "parent_exercise_id": "1171",
+      "name": "Introduction",
+      "slug": "samvaad-mentorship__introduction/intro",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/introduction/intro.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1173",
+          "parent_exercise_id": "1172",
+          "name": "Basic Financial Literacy - Part 1",
+          "slug": "samvaad-mentorship__nontech-cards/banking",
+          "sequence_num": 2001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/banking.md",
+          "submission_type": null
+        },
+        {
+          "id": "1176",
+          "parent_exercise_id": "1172",
+          "name": "Environmental Justice",
+          "slug": "samvaad-mentorship__nontech-cards/environmental",
+          "sequence_num": 2002,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/environmental.md",
+          "submission_type": null
+        },
+        {
+          "id": "1177",
+          "parent_exercise_id": "1172",
+          "name": "Gender Roles",
+          "slug": "samvaad-mentorship__nontech-cards/gender",
+          "sequence_num": 2003,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/gender.md",
+          "submission_type": null
+        },
+        {
+          "id": "1174",
+          "parent_exercise_id": "1172",
+          "name": "Basic Financial Literact - Part Two",
+          "slug": "samvaad-mentorship__nontech-cards/credit",
+          "sequence_num": 2004,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/credit.md",
+          "submission_type": null
+        },
+        {
+          "id": "1175",
+          "parent_exercise_id": "1172",
+          "name": "Basic Finacial Literacy - Three",
+          "slug": "samvaad-mentorship__nontech-cards/finance",
+          "sequence_num": 2005,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/finance.md",
+          "submission_type": null
+        },
+        {
+          "id": "1182",
+          "parent_exercise_id": "1172",
+          "name": "Basic Financial Literacy - Four",
+          "slug": "samvaad-mentorship__nontech-cards/personal-finance",
+          "sequence_num": 2006,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/personal-finance.md",
+          "submission_type": null
+        },
+        {
+          "id": "1183",
+          "parent_exercise_id": "1172",
+          "name": "Resume Writing",
+          "slug": "samvaad-mentorship__nontech-cards/resume",
+          "sequence_num": 2007,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/resume.md",
+          "submission_type": null
+        },
+        {
+          "id": "1178",
+          "parent_exercise_id": "1172",
+          "name": "Linkedin Profile",
+          "slug": "samvaad-mentorship__nontech-cards/linkedin",
+          "sequence_num": 2008,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/linkedin.md",
+          "submission_type": null
+        },
+        {
+          "id": "1179",
+          "parent_exercise_id": "1172",
+          "name": "Email Writing",
+          "slug": "samvaad-mentorship__nontech-cards/email",
+          "sequence_num": 2009,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/email.md",
+          "submission_type": null
+        },
+        {
+          "id": "1180",
+          "parent_exercise_id": "1172",
+          "name": "Mental Health",
+          "slug": "samvaad-mentorship__nontech-cards/mental-health",
+          "sequence_num": 2010,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/mental-health.md",
+          "submission_type": null
+        },
+        {
+          "id": "1181",
+          "parent_exercise_id": "1172",
+          "name": "Introspections",
+          "slug": "samvaad-mentorship__nontech-cards/introspections",
+          "sequence_num": 2011,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/introspections.md",
+          "submission_type": null
+        }
+      ]
+    },
+    {
+      "id": "1172",
+      "parent_exercise_id": "1172",
+      "name": "Conversation Cards - Life Skills",
+      "slug": "samvaad-mentorship__nontech-cards/nontech",
+      "sequence_num": 2000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-mentorship/nontech-cards/nontech.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}

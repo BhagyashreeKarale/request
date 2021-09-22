@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "1285",
+      "parent_exercise_id": null,
+      "name": "How to Use",
+      "slug": "android__howtouse",
+      "sequence_num": 0,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/android/howtouse.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1286",
+      "parent_exercise_id": null,
+      "name": "Learning These",
+      "slug": "android__learning_these",
+      "sequence_num": 100,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/android/learning_these.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1287",
+      "parent_exercise_id": null,
+      "name": "Understanding Layouts",
+      "slug": "android__layout1",
+      "sequence_num": 200,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/android/layout1.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1312",
+      "parent_exercise_id": null,
+      "name": "Understanding Layouts 2",
+      "slug": "android__layout2",
+      "sequence_num": 300,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/android/layout2.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "id": "1697",
+      "parent_exercise_id": null,
+      "name": "introduction",
+      "slug": "hangman__introduction",
+      "sequence_num": 0,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/introduction.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1698",
+      "parent_exercise_id": null,
+      "name": "setting-up",
+      "slug": "hangman__setting-up",
+      "sequence_num": 100,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/setting-up.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1699",
+      "parent_exercise_id": null,
+      "name": "submission_type: url",
+      "slug": "hangman__looping",
+      "sequence_num": 200,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/looping.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1700",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__lives",
+      "sequence_num": 300,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/lives.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1705",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__hangman-images",
+      "sequence_num": 400,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/hangman-images.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1701",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__available-letters",
+      "sequence_num": 500,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/available-letters.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1703",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__invalid-input",
+      "sequence_num": 600,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/invalid-input.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1702",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__game-won",
+      "sequence_num": 700,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/game-won.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1704",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__hint",
+      "sequence_num": 800,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/hint.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1707",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__difficulty-level",
+      "sequence_num": 900,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/difficulty-level.md",
+      "submission_type": "url",
+      "childExercises": []
+    },
+    {
+      "id": "1706",
+      "parent_exercise_id": null,
+      "name": "submission_type:url",
+      "slug": "hangman__lots-of-words",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/hangman/lots-of-words.md",
+      "submission_type": "url",
+      "childExercises": []
+    }
+  ]
+}

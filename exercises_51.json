@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": "1671",
+      "parent_exercise_id": null,
+      "name": "Lessons",
+      "slug": "email__lessons",
+      "sequence_num": 1000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/email/lessons.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "1663",
+      "parent_exercise_id": "1663",
+      "name": "Important Phrases",
+      "slug": "email__phrases/phrases",
+      "sequence_num": 2000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/email/phrases/phrases.md",
+      "submission_type": null,
+      "childExercises": [
+        {
+          "id": "1665",
+          "parent_exercise_id": "1663",
+          "name": "Opening Phrases",
+          "slug": "email__phrases/opening",
+          "sequence_num": 2001,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/email/phrases/opening.md",
+          "submission_type": null
+        },
+        {
+          "id": "1667",
+          "parent_exercise_id": "1663",
+          "name": "Useful Phrases for Main Body",
+          "slug": "email__phrases/mainbody",
+          "sequence_num": 2002,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/email/phrases/mainbody.md",
+          "submission_type": null
+        },
+        {
+          "id": "1668",
+          "parent_exercise_id": "1663",
+          "name": "Closing Phrases",
+          "slug": "email__phrases/closing",
+          "sequence_num": 2003,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/email/phrases/closing.md",
+          "submission_type": null
+        },
+        {
+          "id": "1666",
+          "parent_exercise_id": "1663",
+          "name": "Useful Phrases for Job Application",
+          "slug": "email__phrases/job",
+          "sequence_num": 2004,
+          "review_type": "peer",
+          "github_link": "https://github.com/navgurukul/newton/tree/master/email/phrases/job.md",
+          "submission_type": null
+        }
+      ]
+    },
+    {
+      "id": "1664",
+      "parent_exercise_id": null,
+      "name": "Exercise - Job Applications",
+      "slug": "email__jobapplications",
+      "sequence_num": 3000,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/email/jobapplications.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}
